@@ -55,13 +55,14 @@
     .nav-links {
       display: none;
     }
-  
+    .hamburgesa {
+      display: block;
+      cursor: pointer;
+    }
     .boton {
       display: none;
   
-      .hamburgesa {
-        display: block;
-        cursor: pointer;
+      
   
         img {
           width: 30px;
